@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "fullName": "Blue Cross Admin",
+      "username": "bluecross",
+      "password": "$2b$10$iIIF5pfT0UTvFFmY03Qe5e5YWNy6M/iScJARVhYGXITWiAuGubijm",
+      "role": "bluecross",
+      "createdAt": "2026-08-24T05:41:17.939Z"
+    },
+    {
+      "id": "user-1787550212045",
+      "fullName": "kowshik",
+      "username": "logavarshini",
+      "password": "$2b$10$yL9Y9tlslBqJeB919Z57.utR1UCi/ZPvstxJP9qOiXY1KxCqSmWG6",
+      "role": "user",
+      "createdAt": "2026-08-24T05:43:32.045Z"
+    }
+  ],
+  "likes": {},
+  "requests": [],
+  "aiMatch": {}
+}
